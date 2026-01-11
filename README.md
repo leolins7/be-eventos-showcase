@@ -20,7 +20,7 @@ O objetivo principal foi transformar conteúdos técnicos e obrigatórios em exp
 |:---:|:---:|
 | ![Game Hub](./caminho-para-print-hub.png) <br> *Interface central onde o usuário escolhe a atividade* | ![Jogo Memória](./caminho-para-print-memoria.png) <br> *Dinâmica de pares focada em EPIs e Sinalização* |
 
-*(Dica: Substitua os caminhos acima por prints reais ou GIFs da aplicação)*
+
 
 ---
 
